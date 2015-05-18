@@ -1,0 +1,6 @@
+node_modules/
+app/libraries/
+app/typescripts/typings/
+app/compiled-tests/
+app/scripts/
+coverage/
